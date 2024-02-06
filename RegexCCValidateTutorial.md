@@ -18,7 +18,8 @@ Credit card number validation using regex involves crafting a pattern that check
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Author] (#author)
+- [AdditionalNotes](#additional-notes)
+- [Author](#author)
 
 ## Regex Components
 
